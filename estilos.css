@@ -1,0 +1,27 @@
+#Guess,
+#Yes,
+#No,
+#Yes2,
+#No2{
+    border-radius: 12%;
+    color: blue;
+    background-color: white;
+    border: 1px solid #000;
+    padding: 12px;
+
+}
+
+#Guess:hover,
+#Yes:hover
+#Yes2:hover
+#No:hover
+#No2:hover{
+    border-radius: 12%;
+    color: rgb(253, 253, 253);
+    background-color: blue;
+    border: 1px solid #000;
+    cursor: pointer;
+
+}
+
+
